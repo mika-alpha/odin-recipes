@@ -1,0 +1,49 @@
+h1,
+h2,
+h3{
+    background-color: aqua;
+}
+h1 {
+    color: black;
+}
+
+h2{
+    color: gray;
+}
+
+h3 {
+    color: firebrick
+}
+ul{
+    font-family: Meiryo, "Kaku Gothic Pro", sans-serif;
+    color: red;
+    background-color: black;
+}
+body {
+    background-color: salmon;
+}
+
+ul li{
+    background-color: white;
+    color: rgb(255,0,0);
+}
+
+img {
+    width:300px;
+    height: auto;
+}
+
+.parmesan-ordered-list{
+    background-color: red;
+    color: black;
+}
+
+.parmesan-ordered-list li{
+    background-color: white;
+}
+
+ol{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
